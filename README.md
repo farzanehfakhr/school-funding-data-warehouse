@@ -1,6 +1,6 @@
 # Education Performance & School Funding Data Warehouse
 
-A data warehouse integrating California school funding (NERD$) and student performance (CAASPP) records for the 2021–2022 academic year, built with a full ETL pipeline and a dimensional star schema. Completed as part of graduate coursework (CS779, Data Warehousing) at Boston University.
+A data warehouse integrating California school funding (NERD$) and student performance (CAASPP) records for the 2021–2022 academic year, built with a full ETL pipeline and a dimensional star schema. Completed as part of graduate coursework (CS779, Advanced Database Management) at Boston University.
 
 ## What it does
 
@@ -27,4 +27,4 @@ Dashboards built on top of this warehouse surfaced a counter-intuitive result: s
 SQL (PostgreSQL), Python (pandas), ETL, dimensional modeling, Tableau (for the reporting dashboards)
 
 ---
-*Completed as part of graduate coursework (CS779, Data Warehousing) at Boston University.*
+*Completed as part of graduate coursework (CS779, Advanced Database Management) at Boston University.*
